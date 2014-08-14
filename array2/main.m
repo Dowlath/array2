@@ -12,11 +12,96 @@ int main(int argc, const char * argv[])
 {
 
     @autoreleasepool {
+        int n,i,a[10];
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+//        printf(@"E")/
+        NSLog(@"enter the repetation");
+        scanf("%d",&n);
+        for (i=0; i<=n; i++) {
+            NSLog(@"enter the number");
+            scanf("%d",&a[i]);
+        }
+        for (i=0; i<=n; i++) {
+            NSLog(@"the answer is %d",a[i]);
+        }
         
+      
     }
     return 0;
 }
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        
+        
+        // insert code here...
+       // NSLog(@"Hello, World!");
+        
+   
